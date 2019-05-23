@@ -1,8 +1,9 @@
 # Log Man
 Want to disable logs for release build automatically? Want to print even easier? then use this helper.
 
-![](Usage Preview1.png)
-![](Usage Preview2.png)
+![](Usage_Preview1.png)
+![](Usage_Preview2.png)
+![](Usage_Preview3.png)
 
 With this simple helper your logs will automatically disable for build releasse and you can log smarter & simpler.
 

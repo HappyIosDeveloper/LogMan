@@ -5,7 +5,7 @@ Want to disable logs for release build automatically? Want to print even easier?
 ![](UsagePreview2.png)
 ![](UsagePreview3.png)
 
-With this simple helper your logs will automatically disable for build releasse and you can log smarter & simpler.
+With this simple helper your logs will automatically disable for build release and you can log smarter & simpler.
 
 # Usage
 1- add LogMan.swift to your project.
